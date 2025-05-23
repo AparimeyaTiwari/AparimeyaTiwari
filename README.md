@@ -1,30 +1,33 @@
-## 👋 Hi there, I'm Aparimeya Tiwari
+# 👋 Hi there, I'm Aparimeya Tiwari
 
-### 🎓 Computer Science Student | 🤖 AI Enthusiast | 🎙️ Podcast Creator
+🎓 **Computer Science Student** | 🤖 **AI Enthusiast** | 🎙️ **Podcast Creator**
 
-Welcome to my GitHub profile! I’m passionate about building with code, exploring artificial intelligence, and sharing meaningful conversations through podcasts.
-
----
-
-### 🚀 Current Work
-- 🔭 Building **Finny - The Finance Bot** to make personal finance easier and smarter
-- 🤝 Looking to **collaborate on AI projects**
+Welcome to my GitHub profile! I'm passionate about building innovative solutions, exploring the realms of artificial intelligence, and sharing insightful conversations through podcasts.
 
 ---
 
-### 💬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/aparimeya-tiwari-76a252252/)
-[![Podcast](https://img.shields.io/badge/Podcast-Listen-blueviolet?logo=spotify&logoColor=white&style=flat-square)](https://youtube.com/@entranceandbeyond?si=m2u_9VbI5Hh_n8aH)
+## 🚀 Projects
+
+- **Finny - The Finance Bot**: Simplifying personal finance with intelligent automation.
+- **Lawgic (LawAgent)**: LAWGIC is a modular, multilingual AI-powered legal assistant tailored for the Indian legal ecosystem. Designed with accessibility, clarity, and ethical AI principles in mind, LAWGIC helps users understand, query, and navigate legal documents and laws with ease.  
+  🔗 [Lawgic Project Demo](https://youtu.be/a1v9YRu0rsA?si=j2qVwgf2dhAwzGnc)
+
+- **AI-Driven Podcast Question Generator**: Automates the generation of podcast questions by analyzing resumes, LinkedIn profiles, and video transcripts using custom-trained LLMs.  
+  🔗 [Project Demo on LinkedIn](https://www.linkedin.com/posts/aparimeya-tiwari-76a252252_ai-podcasttech-flask-activity-7295121244184571905-UpkG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5UHsIB-PVwauGMLRdlUCzYReZ7xQuEl-g)  
+  📺 [Watch the Demo on YouTube](https://youtu.be/gjWOJteTW6M?si=gJXdZT0cKq_LC5Gt)
 
 ---
 
-### ⚡ Fun Facts
-- 🎤 I love singing in my free time
-- 🏏 Big fan of **MS Dhoni** and 🏈 **Tom Brady**
-- 📻 Podcasting helps me share stories that matter
+## 🎙️ Podcast & YouTube
+
+- **Entrance & Beyond**: A podcast series where I delve into topics related to education, technology, and personal growth. 
+  🎥 (https://youtube.com/@entranceandbeyond?si=IY7jbtRT9GSaNqADA)
 
 ---
 
-<!--
-**AparimeyaTiwari/AparimeyaTiwari** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/aparimeya-tiwari-76a252252/)
+- [LeetCode](https://leetcode.com/u/Aparimeya_Tiwari/)
+
+Feel free to reach out for collaborations or just a friendly chat!
