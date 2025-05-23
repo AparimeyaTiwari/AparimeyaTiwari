@@ -36,8 +36,8 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 - [LeetCode](https://leetcode.com/u/Aparimeya_Tiwari/)
 
 - Extras
-  **I love singing and watching cricket in my free time
-  **Big time Tom Brady and MS Dhoni Fan
+- **I love singing 🎵 and watching cricket🏏 in my free time
+- **Big time Tom Brady and MS Dhoni Fan
 
 Feel free to reach out for collaborations or just a friendly chat!
 
