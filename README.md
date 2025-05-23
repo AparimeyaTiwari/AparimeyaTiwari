@@ -25,9 +25,19 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ---
 
-## 📫 Let's Connect
+## 📈 GitHub Stats
+
+![Aparimeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AparimeyaTiwari&show_icons=true&theme=radical)
+## 
+
+📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/aparimeya-tiwari-76a252252/)
 - [LeetCode](https://leetcode.com/u/Aparimeya_Tiwari/)
 
+- Extras
+  **I love singing and watching cricket in my free time
+  **Big time Tom Brady and MS Dhoni Fan
+
 Feel free to reach out for collaborations or just a friendly chat!
+
