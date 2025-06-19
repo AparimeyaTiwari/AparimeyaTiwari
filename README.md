@@ -17,7 +17,9 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
   📺 [Watch the Demo on YouTube](https://youtu.be/gjWOJteTW6M?si=gJXdZT0cKq_LC5Gt)
 
 ---
+### 🏅 Certification / Badge
 
+[![Hack Together AI Agents Hackathon](./hack-together-ai-agents-hackathon.png)](https://www.credly.com/badges/81c2fbfd-7376-4d45-bbca-073eb3a29301/public_url)
 ## 🎙️ Podcast & YouTube
 
 - **Entrance & Beyond**: A podcast series where I delve into topics related to education, technology, and personal growth. 
