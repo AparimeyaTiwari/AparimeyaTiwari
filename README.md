@@ -1,46 +1,72 @@
-# 👋 Hi there, I'm Aparimeya Tiwari
+<h1 align="center">👋 Hey, I'm <span style="color:#00ffff">Aparimeya Tiwari</span></h1>
 
-🎓 **Computer Science Student** | 🤖 **AI Enthusiast** | 🎙️ **Podcast Creator**
+<p align="center">
+  <strong>🎓 CSE Undergrad</strong> | <strong>🤖 AI Enthusiast</strong> | <strong>🎙️ Podcast Creator</strong>
+</p>
 
-Welcome to my GitHub profile! I'm passionate about building innovative solutions, exploring the realms of artificial intelligence, and sharing insightful conversations through podcasts.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-Future%20Ready-%2300FFFF?style=flat&logo=openai&logoColor=%2300FFFF"/>
+  <img src="https://img.shields.io/badge/Podcast%20Host-Entrance%20&%20Beyond-orange?style=flat&logo=spotify"/>
+  <img src="https://img.shields.io/github/followers/AparimeyaTiwari?label=Follow&style=social"/>
+</p>
 
 ---
 
 ## 🚀 Projects
 
-- **Finny - The Finance Bot**: Simplifying personal finance with intelligent automation.
-- **Lawgic (LawAgent)**: LAWGIC is a modular, multilingual AI-powered legal assistant tailored for the Indian legal ecosystem. Designed with accessibility, clarity, and ethical AI principles in mind, LAWGIC helps users understand, query, and navigate legal documents and laws with ease.  
+- ✨ **<span style="color:#00ffff">Finny - The Finance Bot</span>**  
+  _Simplifying personal finance with intelligent automation._
+
+- ⚖️ **<span style="color:#ff69b4">Lawgic (LawAgent)</span>**  
+  A modular, multilingual AI-powered legal assistant tailored for the Indian legal ecosystem.  
   🔗 [Lawgic Project Demo](https://youtu.be/a1v9YRu0rsA?si=j2qVwgf2dhAwzGnc)
 
-- **AI-Driven Podcast Question Generator**: Automates the generation of podcast questions by analyzing resumes, LinkedIn profiles, and video transcripts using custom-trained LLMs.  
-  🔗 [Project Demo on LinkedIn](https://www.linkedin.com/posts/aparimeya-tiwari-76a252252_ai-podcasttech-flask-activity-7295121244184571905-UpkG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5UHsIB-PVwauGMLRdlUCzYReZ7xQuEl-g)  
-  📺 [Watch the Demo on YouTube](https://youtu.be/gjWOJteTW6M?si=gJXdZT0cKq_LC5Gt)
+- 🎙️ **<span style="color:#7df9ff">AI-Driven Podcast Question Generator</span>**  
+  Analyzes resumes, LinkedIn profiles & transcripts to generate personalized podcast questions using LLMs.  
+  🔗 [LinkedIn Demo](https://www.linkedin.com/posts/aparimeya-tiwari-76a252252_ai-podcasttech-flask-activity-7295121244184571905-UpkG)  
+  📺 [YouTube Demo](https://youtu.be/gjWOJteTW6M?si=gJXdZT0cKq_LC5Gt)
 
 ---
-### 🏅 Certification / Badge
 
-[![Hack Together AI Agents Hackathon](./hack-together-ai-agents-hackathon.png)](https://www.credly.com/badges/81c2fbfd-7376-4d45-bbca-073eb3a29301/public_url)
+## 🏅 Certification
+
+<a href="https://www.credly.com/badges/81c2fbfd-7376-4d45-bbca-073eb3a29301/public_url" target="_blank">
+  <img src="./hack-together-ai-agents-hackathon.png" alt="Hack Together AI Agents Hackathon" width="200"/>
+</a>
+
+---
+
 ## 🎙️ Podcast & YouTube
 
-- **Entrance & Beyond**: A podcast series where I delve into topics related to education, technology, and personal growth. 
-  🎥 (https://youtube.com/@entranceandbeyond?si=IY7jbtRT9GSaNqADA)
+<div align="center">
+  <img src="./pod_logo.png" alt="Entrance & Beyond Logo" width="120"/>
+
+  <h3><strong><span style="color:#ffa500">Entrance & Beyond</span></strong></h3>
+  <p>Deep dives into technology, education, and personal growth.</p>
+
+  <a href="https://youtube.com/@entranceandbeyond?si=IY7jbtRT9GSaNqADA">
+    <img src="https://img.shields.io/badge/Subscribe-Youtube-red?style=for-the-badge&logo=youtube"/>
+  </a>
+</div>
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud"/>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-![Aparimeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AparimeyaTiwari&show_icons=true&theme=radical)
-## 
-
-📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/aparimeya-tiwari-76a252252/)
-- [LeetCode](https://leetcode.com/u/Aparimeya_Tiwari/)
-
-
-## ✨ Extras
-- 🎵 I love singing and enjoy watching cricket in my free time.
-- 🏏 Huge fan of **Tom Brady** and **MS Dhoni** — legends who inspire excellence and leadership.
-
-Feel free to reach out for collaborations or just a friendly chat!
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AparimeyaTiwari&show_icons=true&theme=radical"/>
+  <br/>
+  <img src="
