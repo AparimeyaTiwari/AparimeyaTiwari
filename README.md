@@ -1,7 +1,9 @@
 <!-- Animated Typing Banner -->
+<!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Let’s+Go!+Future+AI+Engineer+🚀;India’s+Biggest+Podcast+Down+the+Line+🎙️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Building+India's+Biggest+Podcast+🎙️;Future+AI+Engineer+🚀" alt="Typing SVG" />
 </p>
+
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00ffff">Aparimeya Tiwari</span></h1>
 
