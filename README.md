@@ -52,10 +52,15 @@ A computer vision-based exam monitoring system that flags suspicious activity in
 
 ## 🏅 LeetCode Badges
 
-<img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="100" />
-<img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="100" />
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="100" />
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="100" />
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="8">
+    <img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="100" />
+    <img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="100" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="100" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="100" />
+  </marquee>
+</p>
+
 
 
 
