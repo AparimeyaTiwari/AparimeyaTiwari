@@ -50,6 +50,14 @@ A computer vision-based exam monitoring system that flags suspicious activity in
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aparimeya_Tiwari?theme=dark&font=Nunito&ext=heatmap)
 
+## 🏅 LeetCode Badges
+
+<img src="https://assets.leetcode.com/static_assets/others/lg25100.png" width="100" />
+<img src="https://assets.leetcode.com/static_assets/others/lg2550.png" width="100" />
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" width="100" />
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" width="100" />
+
+
 
 ## 🏅 Certification
 
