@@ -46,6 +46,8 @@ A computer vision-based exam monitoring system that flags suspicious activity in
 
 ---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool//Aparimeya_Tiwari?theme=dark&font=Nunito&ext=heatmap)
+
 ## 🏅 Certification
 
 <a href="https://www.credly.com/badges/81c2fbfd-7376-4d45-bbca-073eb3a29301/public_url" target="_blank">
